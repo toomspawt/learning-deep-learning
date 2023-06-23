@@ -1,2 +1,2 @@
 # learning-deep-learning
-The deep learning projects I made along the way.
+The projects I made along the way.
